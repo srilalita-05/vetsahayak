@@ -216,11 +216,4 @@ The current version of **VetSahayak** is **rule/pattern-based** (no ML yet), but
 
 ---
 
-## 📅 Quick Start Tasks (Week 1)
-
-* Clean & normalize CSVs.
-* Replace hardcoded FAQ dict with cleaned FAQ DataFrame.
-* Implement **cosine similarity retriever** for FAQs.
-* Train baseline **Dangerous classifier** (TF-IDF + Logistic Regression).
-* Add ensemble logic with rule-based checker.
 
