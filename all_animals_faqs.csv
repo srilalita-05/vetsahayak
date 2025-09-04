@@ -1,0 +1,91 @@
+Animal,Question,Answer
+Dog,How often should I vaccinate my dog?,"Dogs need core vaccines such as rabies, distemper, parvovirus, and hepatitis. Boosters are required every 1–3 years depending on local regulations and vet advice."
+Dog,What foods are toxic to dogs?,"Chocolate, onions, garlic, grapes, raisins, xylitol, alcohol, and cooked bones are toxic to dogs."
+Dog,How often should I deworm my dog?,"Puppies should be dewormed every 2–3 weeks until 12 weeks of age, then monthly until 6 months, and at least every 3–6 months as adults."
+Dog,How do I know if my dog has fleas?,"Excessive scratching, hair loss, visible tiny black specks (flea dirt), and irritated skin may indicate fleas."
+Dog,How can I prevent heatstroke in dogs?,"Provide shade, fresh water, avoid exercise in hot weather, and never leave dogs in cars."
+Dog,How often should I bathe my dog?,"Every 4–6 weeks is sufficient for most dogs, but frequency depends on coat type and lifestyle."
+Dog,How much exercise does my dog need?,"Most dogs need 30 minutes to 2 hours of exercise daily, depending on age and breed."
+Dog,Can I give my dog human medicine?,No. Many human medicines are toxic to dogs. Always consult a veterinarian first.
+Dog,How can I tell if my dog is overweight?,"If you cannot feel your dog's ribs easily and they lack a defined waist, they may be overweight."
+Dog,What are emergency signs in dogs?,"Difficulty breathing, persistent vomiting, seizures, inability to stand, and uncontrolled bleeding require urgent veterinary care."
+Cat,How often should I vaccinate my cat?,"Cats require core vaccines like feline distemper, calicivirus, rhinotracheitis, and rabies. Boosters are given every 1–3 years."
+Cat,What foods are toxic to cats?,"Onions, garlic, chocolate, grapes, raisins, alcohol, caffeine, and bones are toxic to cats."
+Cat,Should cats stay indoors?,"Indoor cats generally live longer and are safer from accidents, diseases, and predators."
+Cat,How often should I deworm my cat?,"Kittens should be dewormed every 2 weeks until 12 weeks old, then monthly until 6 months, and at least every 3–6 months as adults."
+Cat,How do I prevent hairballs in cats?,Regular grooming and special hairball-control diets can help reduce hairballs.
+Cat,How often should I groom my cat?,"Short-haired cats need brushing weekly, while long-haired cats may need daily brushing."
+Cat,Can I feed milk to my cat?,Most adult cats are lactose intolerant. Avoid cow’s milk and provide fresh water instead.
+Cat,What are signs of illness in cats?,"Loss of appetite, lethargy, hiding, vomiting, diarrhea, and respiratory issues are warning signs."
+Cat,How do I know if my cat is stressed?,"Stress signs include hiding, over-grooming, aggression, and changes in litter box use."
+Cat,What are emergency signs in cats?,"Difficulty breathing, sudden collapse, persistent vomiting, seizures, and inability to urinate are emergencies."
+Cow,How often should cows be vaccinated?,"Cows need vaccinations against foot-and-mouth disease, brucellosis, black quarter, and hemorrhagic septicemia, as advised by the vet."
+Cow,What is mastitis in cows?,"Mastitis is an udder infection causing swelling, heat, redness, clots in milk, and reduced yield."
+Cow,What should cows eat daily?,"Cows need a diet of green fodder, dry fodder, concentrates, and clean drinking water."
+Cow,How can I improve milk yield in cows?,"Provide balanced nutrition, regular health checks, and stress-free milking practices."
+Cow,How often should cows be dewormed?,Cows should be dewormed every 3–6 months depending on grazing conditions.
+Cow,What are signs of bloat in cows?,"Distended left abdomen, discomfort, restlessness, and difficulty breathing are signs of bloat."
+Cow,How can I prevent foot-and-mouth disease?,Follow vaccination schedules and maintain good farm hygiene to reduce risk.
+Cow,What is the normal temperature of a cow?,The normal rectal temperature of a cow is 101.5°F (38.6°C).
+Cow,What are common cow diseases?,"Common diseases include mastitis, brucellosis, foot-and-mouth, anthrax, and black quarter."
+Cow,What are emergency signs in cows?,"Difficulty standing, collapse, inability to eat or drink, and severe breathing problems require immediate vet care."
+Cattle,What is the difference between cattle and cow?,"Cow refers specifically to female bovines, while cattle is a general term for all domesticated bovines including bulls, cows, and calves."
+Cattle,How often should cattle be vaccinated?,"Vaccination schedules vary but generally include vaccines against FMD, brucellosis, black quarter, and HS as advised by local vets."
+Cattle,What should be the housing for cattle?,"Cattle need clean, dry, and well-ventilated sheds with enough space for movement."
+Cattle,How do I detect lameness in cattle?,"Signs include limping, reluctance to move, swelling in hooves or joints."
+Cattle,How often should cattle be fed?,Cattle should be fed 2–3 times a day with adequate fodder and water.
+Cattle,What are signs of heat in cattle?,"Restlessness, bellowing, reduced appetite, and mounting other cattle indicate heat."
+Cattle,How much water do cattle need daily?,Adult cattle need 30–50 liters of clean water daily depending on climate and diet.
+Cattle,How can I prevent tick infestations?,"Use acaricides, maintain hygiene, and rotate grazing pastures."
+Cattle,What are signs of brucellosis in cattle?,"Abortions, reduced fertility, and retained placenta are signs of brucellosis."
+Cattle,What are emergency signs in cattle?,"Severe bloat, sudden collapse, inability to stand, and uncontrolled bleeding require emergency vet care."
+Buffaloes,How often should buffaloes be vaccinated?,"Buffaloes need vaccination against diseases like FMD, HS, BQ, and brucellosis as per vet advice."
+Buffaloes,What is the average milk yield of buffaloes?,Milk yield varies by breed but typically ranges between 4–12 liters per day.
+Buffaloes,What should buffaloes eat?,"Buffaloes thrive on green fodder, crop residues, dry fodder, and concentrates with ample water."
+Buffaloes,How do I prevent mastitis in buffaloes?,"Maintain udder hygiene, clean housing, and proper milking techniques."
+Buffaloes,How often should buffaloes be dewormed?,Every 3–6 months depending on grazing conditions.
+Buffaloes,What is the normal temperature of buffaloes?,The normal rectal temperature of buffaloes is around 100.5–102.5°F (38–39°C).
+Buffaloes,How can I improve milk quality in buffaloes?,"Provide balanced feed, mineral supplements, clean water, and reduce stress."
+Buffaloes,How can I prevent bloat in buffaloes?,"Avoid sudden changes in diet, provide roughage, and prevent overeating of legumes."
+Buffaloes,What are common diseases in buffaloes?,"Mastitis, HS, FMD, brucellosis, and parasitic infestations are common diseases."
+Buffaloes,What are emergency signs in buffaloes?,"Inability to rise, severe bloating, persistent diarrhea, and breathing difficulty need urgent vet attention."
+Chicken,How often should chickens be vaccinated?,"Chickens should be vaccinated against Marek’s disease, Newcastle disease, and infectious bronchitis as per poultry schedule."
+Chicken,What should chickens eat?,"Balanced poultry feed with grains, protein, vitamins, minerals, and clean water."
+Chicken,What are signs of Newcastle disease?,"Coughing, sneezing, twisted neck, paralysis, and sudden death are signs of Newcastle disease."
+Chicken,How can I prevent egg drop in chickens?,"Provide adequate nutrition, calcium supplements, and vaccination."
+Chicken,How much space do chickens need?,Each chicken should have at least 1.5–2 square feet of floor space in coops.
+Chicken,What are signs of coccidiosis in chickens?,"Bloody diarrhea, lethargy, poor appetite, and weight loss indicate coccidiosis."
+Chicken,How can I prevent parasites in chickens?,"Keep litter dry, rotate grazing, and use deworming medicines as recommended."
+Chicken,What is the normal lifespan of a chicken?,Backyard chickens can live 6–8 years with good care.
+Chicken,How often do hens lay eggs?,Healthy hens lay 4–6 eggs per week depending on breed and season.
+Chicken,What are emergency signs in chickens?,"Sudden drop in egg production, respiratory distress, and inability to stand require urgent vet care."
+Birds,What should pet birds eat?,"A mix of seeds, fresh fruits, vegetables, and pellets. Avoid avocado, chocolate, caffeine, and alcohol."
+Birds,How often should bird cages be cleaned?,"Daily cleaning of food and water dishes, and weekly cleaning of the cage is recommended."
+Birds,Can birds be vaccinated?,"Yes, some birds require vaccines against diseases like Newcastle disease and polyomavirus, depending on species and region."
+Birds,How do I know if my bird is sick?,"Signs include feather fluffing, loss of appetite, drooping wings, labored breathing, and quiet behavior."
+Birds,Do birds need company?,Most birds are social and benefit from companionship or regular human interaction.
+Birds,How often should I take my bird to the vet?,"At least once a year for a health checkup, and more often if showing illness signs."
+Birds,Can birds talk?,Some species like parrots and mynahs can mimic human speech with training.
+Birds,How do I prevent feather plucking?,"Provide enrichment, reduce stress, ensure proper diet, and seek vet help if persistent."
+Birds,What temperature is safe for birds?,Most pet birds are comfortable between 65–80°F (18–27°C). Avoid sudden temperature changes.
+Birds,What are emergency signs in birds?,"Difficulty breathing, seizures, bleeding, sudden inability to perch, or not eating require urgent vet care."
+Deer,What do deer eat?,"Deer mainly eat grasses, leaves, shoots, fruits, and nuts depending on season."
+Deer,Do deer need salt licks?,"Yes, salt and mineral licks help provide essential minerals in their diet."
+Deer,What are common deer diseases?,"Deer can suffer from chronic wasting disease, bluetongue, and parasitic infestations."
+Deer,Can deer be domesticated?,"Deer are wild animals and cannot be fully domesticated, but they can be farmed in controlled environments."
+Deer,How do I prevent disease spread in deer?,"Maintain clean enclosures, avoid overcrowding, and follow vaccination/deworming schedules advised by wildlife vets."
+Deer,What is the lifespan of a deer?,Deer can live 10–20 years depending on species and environment.
+Deer,How do deer communicate?,"Deer communicate using body language, vocal calls, and scent marking."
+Deer,What should I do if I find an injured deer?,Contact local wildlife authorities or a vet trained in wildlife care. Do not attempt treatment yourself.
+Deer,Are deer dangerous?,"Deer are generally shy, but can be dangerous if cornered, especially males during rutting season."
+Deer,What are emergency signs in deer?,"Severe injury, inability to stand, bleeding, or neurological signs require immediate wildlife vet attention."
+Black-tailed Deer,Where do black-tailed deer live?,"They are native to the western coastal regions of North America, living in forests and meadows."
+Black-tailed Deer,What do black-tailed deer eat?,"They eat grasses, shrubs, berries, acorns, and agricultural crops."
+Black-tailed Deer,What predators hunt black-tailed deer?,"Predators include mountain lions, wolves, coyotes, and bears."
+Black-tailed Deer,What are common diseases in black-tailed deer?,"They may be affected by chronic wasting disease, parasites, and bacterial infections."
+Black-tailed Deer,How long do black-tailed deer live?,"In the wild, they live about 8–12 years; in captivity, they may live longer."
+Black-tailed Deer,When do black-tailed deer breed?,They breed in fall (November–December) with fawns born in spring.
+Black-tailed Deer,What is the normal behavior of black-tailed deer?,"They are crepuscular, most active at dawn and dusk, and live in small groups."
+Black-tailed Deer,Are black-tailed deer dangerous?,They are generally shy but males can be aggressive during rutting season.
+Black-tailed Deer,How can black-tailed deer be protected?,"Conservation includes habitat preservation, regulated hunting, and disease monitoring."
+Black-tailed Deer,What are emergency signs in black-tailed deer?,"Injury, neurological symptoms, or inability to stand should be reported to wildlife authorities."
